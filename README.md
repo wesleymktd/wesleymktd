@@ -6,7 +6,7 @@ Sou Desenvolvedor Front End
 - 🤓 Migrando do **Marketing Digital** para o **Desenvolvimento Web**
 - 💻 Atualmente estou aprendendo **Back-end**
 - 💵 Amo mercado financeiro e e-commerce
-- 💬 Curiosidade: Meus hobbies é jogar video game (jogos retro) e tocar piano
+- 💬 Curiosidade: Meus hobbies são jogar video game (jogos retro) e tocar piano
 
 <div>
 <a href="https://www.linkedin.com/in/wesleymktd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
