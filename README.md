@@ -4,7 +4,7 @@ Sou Desenvolvedor Front End
 
 - 🔭 Estou trabalhando em minha **nova carreira**
 - 🤓 Migrando do **Marketing Digital** para o **Desenvolvimento Web**
-- 💻 Atualmente estou aprendendo **Back-end**
+- 💻 Atualmente estou aprendendo **C#**
 - 💵 Amo mercado financeiro e e-commerce
 - 💬 Curiosidade: Meus hobbies são jogar video game (jogos retro) e tocar piano
 
